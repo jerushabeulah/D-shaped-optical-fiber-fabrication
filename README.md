@@ -6,13 +6,13 @@ This project was done as part of my MSc in Electronic Communications and Compute
 
 
 
-\## 🎯 Aim
+\## Aim
 
 To design and refine D-shaped optical fibre fabrication systems using acrylic mould encapsulation and wheel polishing, and to enhance their sensitivity for ammonia detection through Layer-by-Layer (LBL) DAR/TSPP deposition.
 
 
 
-\## 🧪 What this project includes
+\## What this project includes
 
 \- MATLAB Live Scripts for intensity drop analysis and wavelength identification  
 
@@ -24,7 +24,7 @@ To design and refine D-shaped optical fibre fabrication systems using acrylic mo
 
 
 
-\## 🧰 How to use
+\## How to use
 
 1\. Open the `.mlx` files in MATLAB.  
 
@@ -36,7 +36,7 @@ To design and refine D-shaped optical fibre fabrication systems using acrylic mo
 
 
 
-\## 📊 Results
+\## Results
 
 \- Successfully fabricated D-shaped optical fibres with 20% and 50% intensity drops.
 
@@ -46,11 +46,12 @@ To design and refine D-shaped optical fibre fabrication systems using acrylic mo
 
 
 
-\## 📖 Reference
+\## Reference
 
 Jerusha Beulah Jawahar Wilson David,  
 
 \*Fabrication of D-Shaped Optical Fiber for Sensing Applications\*, MSc Thesis, University of Nottingham, 2024.
+
 
 
 

@@ -36,7 +36,7 @@ To design and refine D-shaped optical fibre fabrication systems using acrylic mo
 
 
 
-\## Results
+## Results
 
 - Successfully fabricated D-shaped optical fibres with 20% and 50% intensity drops.
 
@@ -51,6 +51,7 @@ To design and refine D-shaped optical fibre fabrication systems using acrylic mo
 Jerusha Beulah Jawahar Wilson David,  
 
 *Fabrication of D-Shaped Optical Fiber for Sensing Applications\*, MSc Thesis, University of Nottingham, 2024.
+
 
 
 
